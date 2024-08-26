@@ -19,6 +19,21 @@ LEVIR-CD  https://justchenhao.github.io/LEVIR/
 # Test
 Modify paths of datasets, then run eval.py.
 
+# Visualization of results
+## Visualization of cropland CD and attention map results on the CL-CD dataset
+![Fig 3](https://github.com/user-attachments/assets/c5ee695b-6549-4555-aeda-ef8396eb6585)
+
+## Visualization of cropland CD ablation results on the CL-CD dataset
+![Fig 4](https://github.com/user-attachments/assets/669a562d-f48b-4465-9661-342070753cb2)
+
+## Box-plot comparison chart of quantitative indicators for DSHANet
+![Fig 5](https://github.com/user-attachments/assets/e7515a28-5289-4a2b-a1da-a41a45822255)
+
+## Visualization of experimental results on other datasets
+![Fig 6](https://github.com/user-attachments/assets/61435872-6e79-4757-b735-b43854f243e9)
+
+
+
 
 
 
