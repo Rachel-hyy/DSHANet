@@ -17,7 +17,7 @@ LEVIR-CD  https://justchenhao.github.io/LEVIR/
 2. Modify paths of datasets, then run train.py.
 
 # Test
-Modify paths of datasets, then run eval.py
+Modify paths of datasets, then run eval.py.
 
 
 
