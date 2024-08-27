@@ -20,7 +20,7 @@ LEVIR-CD  https://justchenhao.github.io/LEVIR/
 Modify paths of datasets, then run eval.py.
 
 # Results
-## Experimental metrics on the CL-CD dataset.
+### Experimental metrics on the CL-CD dataset.
 |            |  Method  | Precision | Recall | F1-score | mIOU  | IOU_0 | IOU_1 |  OA   | Kappa |
 | :--------: | :------: | :-------: | :----: | :------: | :---: | :---: | :---: | :---: | :---: |
 |            |  FC_EF   |   53.3    | 73.51  |   61.8   | 68.78 | 92.84 | 44.71 | 93.24 | 58.19 |
@@ -39,7 +39,7 @@ Modify paths of datasets, then run eval.py.
 |          |   w/o HCF    | 83.58     | 74.98  | 79.05    | 81.11 | 96.87 | 65.36 | 97.04 | 77.46 |
 |          |   DSHANet    | 85.21     | 74.49  | 79.49    | 81.47 | 96.97 | 65.97 | 97.14 | 77.96 |
 
-## Generalization experiment results comparing our method with other SOTA methods on the LEVIR-CD and WHU-CD datasets.
+### Generalization experiment results comparing our method with other SOTA methods on the LEVIR-CD and WHU-CD datasets.
 | Dataset  |  Method  | Precision | Recall | F1-score | mIOU  | IOU_0 | IOU_1 |  OA   | Kappa |
 | :------: | :------: | :-------: | :----: | :------: | :---: | :---: | :---: | :---: | :---: |
 |          |  FC-EF   |   79.91   | 82.84  |  81.35   | 81.97 | 95.38 | 68.56 | 95.8  | 78.99 |
@@ -64,18 +64,18 @@ Modify paths of datasets, then run eval.py.
 |         |   Ours   |   92.97   | 91.41  |  92.18   | 92.37 | 99.24 | 85.5  | 99.27 | 91.8  |
 
 # Visualization of results
-## Visualization of cropland CD and attention map results on the CL-CD dataset
+### Visualization of cropland CD and attention map results on the CL-CD dataset
 ![Fig 3 - 副本-min](https://github.com/user-attachments/assets/a0936a8c-2c12-47a9-9c5c-d44815828a67)
 
 
-## Visualization of cropland CD ablation results on the CL-CD dataset
+### Visualization of cropland CD ablation results on the CL-CD dataset
 ![Fig 4](https://github.com/user-attachments/assets/d1975e05-a2d7-4ac2-8c3f-bdf58d804554)
 
-## Box-plot comparison chart of quantitative indicators for DSHANet
+### Box-plot comparison chart of quantitative indicators for DSHANet
 ![Fig 5](https://github.com/user-attachments/assets/e87b5bc0-a8fc-4716-b269-9e2d9e6e0c74)
 
 
-## Visualization of experimental results on other datasets
+### Visualization of experimental results on other datasets
 ![Fig 6](https://github.com/user-attachments/assets/fc78ebc8-7bd6-4159-ba30-0084e3f74ed2)
 
 
