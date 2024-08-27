@@ -21,16 +21,19 @@ Modify paths of datasets, then run eval.py.
 
 # Visualization of results
 ## Visualization of cropland CD and attention map results on the CL-CD dataset
-![Fig 3](https://github.com/user-attachments/assets/c5ee695b-6549-4555-aeda-ef8396eb6585)
+![Fig 3 - 副本-min](https://github.com/user-attachments/assets/a0936a8c-2c12-47a9-9c5c-d44815828a67)
+
 
 ## Visualization of cropland CD ablation results on the CL-CD dataset
-![Fig 4](https://github.com/user-attachments/assets/669a562d-f48b-4465-9661-342070753cb2)
+![Fig 4](https://github.com/user-attachments/assets/d1975e05-a2d7-4ac2-8c3f-bdf58d804554)
 
 ## Box-plot comparison chart of quantitative indicators for DSHANet
-![Fig 5](https://github.com/user-attachments/assets/e7515a28-5289-4a2b-a1da-a41a45822255)
+![Fig 5](https://github.com/user-attachments/assets/e87b5bc0-a8fc-4716-b269-9e2d9e6e0c74)
+
 
 ## Visualization of experimental results on other datasets
-![Fig 6](https://github.com/user-attachments/assets/61435872-6e79-4757-b735-b43854f243e9)
+![Fig 6](https://github.com/user-attachments/assets/fc78ebc8-7bd6-4159-ba30-0084e3f74ed2)
+
 
 
 
